@@ -1,4 +1,5 @@
 {
+    "name": "math-borges/city-library",
     "type": "library",
     "license": "proprietary",
     "minimum-stability": "stable",
