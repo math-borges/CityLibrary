@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Entity;
+namespace CityLibrary\Entity;
 
-use App\Repository\WeatherRepository;
+use CityLibrary\Repository\WeatherRepository;
 use Doctrine\Common\Collections\ArrayCollection;
 use Doctrine\Common\Collections\Collection;
 use Doctrine\DBAL\Types\Types;

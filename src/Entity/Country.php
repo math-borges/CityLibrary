@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Entity;
+namespace CityLibrary\Entity;
 
-use App\Repository\CountryRepository;
+use CityLibrary\Repository\CountryRepository;
 use Doctrine\Common\Collections\ArrayCollection;
 use Doctrine\Common\Collections\Collection;
 use Doctrine\ORM\Mapping as ORM;

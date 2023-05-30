@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Repository;
+namespace CityLibrary\Repository;
 
-use App\Entity\City;
+use CityLibrary\Entity\City;
 use Doctrine\Bundle\DoctrineBundle\Repository\ServiceEntityRepository;
 use Doctrine\Persistence\ManagerRegistry;
 
