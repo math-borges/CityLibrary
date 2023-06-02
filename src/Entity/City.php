@@ -1,8 +1,8 @@
 <?php
 
-namespace CityLibrary\Entity;
+namespace App\Entity;
 
-use CityLibrary\Repository\CityRepository;
+use App\Repository\CityRepository;
 use Doctrine\ORM\Mapping as ORM;
 
 #[ORM\Entity(repositoryClass: CityRepository::class)]

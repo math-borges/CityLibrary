@@ -1,8 +1,8 @@
 <?php
 
-namespace CityLibrary\Repository;
+namespace App\Repository;
 
-use CityLibrary\Entity\Weather;
+use App\Entity\Weather;
 use Doctrine\Bundle\DoctrineBundle\Repository\ServiceEntityRepository;
 use Doctrine\Persistence\ManagerRegistry;
 
